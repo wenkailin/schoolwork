@@ -1,0 +1,9 @@
+c:\users\cweeks.c-mj02v188\documents\visual studio 2017\Projects\cwCh6Lab4\cwCh6Lab4\bin\Debug\cwCh6Lab4.exe.config
+c:\users\cweeks.c-mj02v188\documents\visual studio 2017\Projects\cwCh6Lab4\cwCh6Lab4\bin\Debug\cwCh6Lab4.exe
+c:\users\cweeks.c-mj02v188\documents\visual studio 2017\Projects\cwCh6Lab4\cwCh6Lab4\bin\Debug\cwCh6Lab4.pdb
+c:\users\cweeks.c-mj02v188\documents\visual studio 2017\Projects\cwCh6Lab4\cwCh6Lab4\obj\Debug\cwCh6Lab4.csprojResolveAssemblyReference.cache
+c:\users\cweeks.c-mj02v188\documents\visual studio 2017\Projects\cwCh6Lab4\cwCh6Lab4\obj\Debug\cwCh6Lab4.Form1.resources
+c:\users\cweeks.c-mj02v188\documents\visual studio 2017\Projects\cwCh6Lab4\cwCh6Lab4\obj\Debug\cwCh6Lab4.Properties.Resources.resources
+c:\users\cweeks.c-mj02v188\documents\visual studio 2017\Projects\cwCh6Lab4\cwCh6Lab4\obj\Debug\cwCh6Lab4.csproj.GenerateResource.Cache
+c:\users\cweeks.c-mj02v188\documents\visual studio 2017\Projects\cwCh6Lab4\cwCh6Lab4\obj\Debug\cwCh6Lab4.exe
+c:\users\cweeks.c-mj02v188\documents\visual studio 2017\Projects\cwCh6Lab4\cwCh6Lab4\obj\Debug\cwCh6Lab4.pdb
